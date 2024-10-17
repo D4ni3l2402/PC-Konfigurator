@@ -1,0 +1,13 @@
+footer {
+  background-color: #2e2e2e;
+  position: sticky;
+  top: 100%;
+  z-index: -1;
+}
+
+p {
+  margin: 0;
+  padding: 5px;
+  color: white;
+  font-size: 0.8em;
+}/*# sourceMappingURL=Footer.css.map */
